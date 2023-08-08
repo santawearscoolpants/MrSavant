@@ -1,3 +1,5 @@
+#Art by Santa
+
 # Import necessary modules and classes for GPIO pins, PWM, UART, and timing functions
 from machine import Pin, PWM, UART
 from time import sleep
